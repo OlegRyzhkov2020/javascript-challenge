@@ -11,4 +11,4 @@
 
 ## Main Dashboard
 
-![dashboard_slide](images/ufo_1.png)
+![dashboard_slide](../images/ufo_1.png)
